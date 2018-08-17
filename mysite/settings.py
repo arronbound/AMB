@@ -26,7 +26,7 @@ SECRET_KEY = '%p_@(z@g@pd*09-kmm4w1bsb*-g-qstg-vs%0hdu695jrksny5'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+change in otam
 
 # Application definition
 
